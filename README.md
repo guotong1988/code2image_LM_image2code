@@ -1,5 +1,5 @@
 # code2image - LargeModel - image2code
-code-draw-image --> image2text-model --> input-text-predict-code
+code-draw-image-with-text-label --> image2text-model --> input-text-predict-code
 
 ### Reference
 https://github.com/guotong1988/code2text_LLM_text2code
