@@ -1,5 +1,15 @@
-# code2image - LargeModel - image2code
-code-draw-image+textLabel --> image2text-model --> input-text-predict-code
+# code2image + code2text --> image2text --> text2code
+
+code construct image + text + text2code-label (method name and method's parameter)
+
+train image2text model 
+
+train text2code LLM model
+
+image2text model input image and predict text
+
+text2code model input text and predict code
 
 ### Reference
+
 https://github.com/guotong1988/code2text_LLM_text2code
