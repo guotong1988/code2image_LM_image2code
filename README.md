@@ -12,4 +12,4 @@ text2code model input text and predict code
 
 ### Reference
 
-https://github.com/guotong1988/code2text_LLM_text2code
+https://github.com/guotong1988/code2text_LLM_text2code (method name and method's parameter)
